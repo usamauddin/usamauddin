@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dqhylmpvk/image/upload/v1723967864/Orange_and_White_Funny_Dating_Animated_Presentation_yv5vsu.gif" alt="loading.." />
+<img src="https://res.cloudinary.com/dqhylmpvk/image/upload/v1723967864/Orange_and_White_Funny_Dating_Animated_Presentation_yv5vsu.gif" height="50vh" alt="loading.." />
 <h1 align="center">Hi 👋, I'm Usama Uddin</h1>
 <h3 align="center">A passionate and dedicated backend Node JS developer</h3>
 
