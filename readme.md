@@ -4,9 +4,7 @@
 
 - 👯 Node.js backend developer passionate about crafting scalable and efficient solutions. Proficient in building robust APIs and microservices. **Let's build something amazing together!**
 
-- 💬 Ask me about **Nest Js, PostgreSQL, Socket IO, Stripe, Queue System, MongoDB, Prisma ORM**
-  
-- 🌱 I’m currently learning **Kafka and Redis**
+- 💬 Ask me about **Nest Js, PostgreSQL, Socket IO, Stripe, Queue System, MongoDB, Prisma ORM, Kafka and Redis**
 
 <br>
 <h3> 💻 Tech Stack: </h3>
